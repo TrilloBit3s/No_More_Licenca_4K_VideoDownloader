@@ -10,8 +10,13 @@
     - AB (Padrão)
     - 011 dayDownloadCount
     - 011 dayDownloadDATE
-6. Clique no arquivo do meio (011 dayDownloadCount) e abra-o.
-7. No campo "Dados do Valor", substitua o valor por `0` (zero).
-8. Depois de fazer isso, você poderá baixar seus vídeos sem precisar esperar 24 horas ou pagar.
+
+	OBS: As novas atualizações mudaram e pode ser que os nomes fiquem diferentes, massssssss kkkkk
+		 já resolvi, continua no mesmo padrão, porém quando esgotar os 10 Downloads, agora ficara
+		 com o caracter a em dayDownloadCount, mude para 0, se não for, mude para 00 ou 000.
+	
+7. Clique no arquivo do meio (011 dayDownloadCount) e abra-o.
+8. No campo "Dados do Valor", substitua o valor por `0` (zero).
+9. Depois de fazer isso, você poderá baixar seus vídeos sem precisar esperar 24 horas ou pagar.
 
 **Pronto! Agora, o limite foi desativado.**
