@@ -12,8 +12,9 @@
     - 011 dayDownloadDATE
 
 	OBS: As novas atualizações mudaram e pode ser que os nomes fiquem diferentes, massssssss kkkkk
-		 já resolvi, continua no mesmo padrão, porém quando esgotar os 10 Downloads, agora ficara
-		 com o caracter a em dayDownloadCount, mude para 0, se não for, mude para 00 ou 000.
+		 já resolvi, "Não foi eu nãaaaaaaaaa em", continua no mesmo padrão, porém quando esgotar 
+		 os 10 Downloads, agora ficara com o caracter "a" em dayDownloadCount, mude para 0, se não for, 
+		 mude para 00 ou 000 ou 0000. Se deixar com apenas 1 Zero retornara os 10 downlods normalmente.
 	
 7. Clique no arquivo do meio (011 dayDownloadCount) e abra-o.
 8. No campo "Dados do Valor", substitua o valor por `0` (zero).
